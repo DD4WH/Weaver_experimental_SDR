@@ -8,6 +8,9 @@ https://forum.pjrc.com/threads/38979-Frequency-shift-with-the-Weaver-method-(-qu
 
 Some more resources:
 
+Fully implemented Weaver modulator/demodulator !
+https://forum.pjrc.com/threads/42431-Audio-Library-Object-for-Weaver-(Third-Method)-SSB-Modulation-Demodulation?p=135182#post135182
+
 https://forum.pjrc.com/attachment.php?attachmentid=9746&d=1487439697
 
 https://csoundjournal.com/ezine/summer2000/processing/index.html
