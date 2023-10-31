@@ -8,6 +8,8 @@ https://forum.pjrc.com/threads/38979-Frequency-shift-with-the-Weaver-method-(-qu
 
 Some more resources:
 
+https://forum.pjrc.com/attachment.php?attachmentid=9746&d=1487439697
+
 https://csoundjournal.com/ezine/summer2000/processing/index.html
 
 https://pa3ect.nl/de-derde-methode-van-opwekking-ssb-is-de-fase-weaver-methode/
